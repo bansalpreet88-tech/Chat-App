@@ -13,7 +13,7 @@ Make sure you have [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.co
 ### Clone the Repository
 Clone the repository to your local machine:
 ```bash
-git clone https://github.com/DeveshChandak1/Chat_Website.git
+git clone https://github.com/bansalpreet88-tech/Chat_Website.git
 cd Chat_Website
 ```
 
